@@ -1,0 +1,4 @@
+flask==2.3.0
+flask-sqlalchemy==3.0.3
+flask-colors==3.0.10
+werkzeug==3.0.0
